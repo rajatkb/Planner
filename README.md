@@ -23,6 +23,13 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 <hr>
 
+
+## Reading List  
+
+* **Deep Learning**  
+  * [Deep learning paper reading list](http://deeplearning.net/reading-list/)
+
+
 ## **Future Task **
 
 ##### *Courses:*
