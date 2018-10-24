@@ -28,6 +28,8 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 * **Deep Learning**  
   * [Deep learning paper reading list](http://deeplearning.net/reading-list/)
+  * [Curated list of ML reading list](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md#deep) , awesome list of awesome stuff in ML and DL. Plus some stats and optimization stuff  
+  * 
 
 
 ## **Future Task **
