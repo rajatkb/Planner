@@ -13,7 +13,7 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
   I have this subject in college course this time and i love this subject so a good course from coursera should suffice me with the  
   understanding of the algorithms.  
 
-* Fast.ai Machine Learning  
+* [Fast.ai](https://forums.fast.ai/) Machine Learning  
   Because I need revision and need involve myself with a community of learners. Yup these people are awesome. Plus need to try their
   recent fastai library
 
