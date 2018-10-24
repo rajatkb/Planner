@@ -25,6 +25,6 @@ def process():
 			stamp = new_stamp
 			print("log: file was changed")
 			update_repo()
-		time.sleep(1)
+		time.sleep(500)
 
 process()
