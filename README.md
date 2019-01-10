@@ -3,6 +3,11 @@ This is my personal repository , documenting and maintaining plans on what to st
 
 Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) though for the idea.  
 
+## **Completed Stuff**
+* ~~Udacity Pytorch course challenge by Facebook,
+  This one if done will result in a Deep Learning Nanodegree course.~~
+
+
 ## **Ongoing Stuff :**
 
 ##### *Courses:*
@@ -19,7 +24,7 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 ##### *Projects :*  
 
-* **My final year project** : Can't post links till done but will soon be done
+* **My final year project** : 7th sem project done, working to have it published maybe : Link : (Handloom_Designing_Using_Generative_A.I)[https://github.com/rajatkb/Handloom-Design-Generation-using-Deep-Neural-Networks]
 
 <hr>
 
@@ -32,7 +37,7 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
   * 
 
 
-## **Future Task **
+## **Future Task **  
 
 ##### *Courses:*
 
@@ -47,5 +52,4 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 * A.I by Kirril Emeriko 
   Reinforcment Learning Course again. This one is good but half done till now  
   
-* Udacity Pytorch course challenge by Facebook,
-  This one if done will result in a Deep Learning Nanodegree course. 
+ 
