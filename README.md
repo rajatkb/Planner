@@ -22,9 +22,13 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
   Because I need revision and need involve myself with a community of learners. Yup these people are awesome. Plus need to try their
   recent fastai library
 
+* Probabilistic Programming Specialization  
+  Stanford Course , an awesome one at that
+
 ##### *Projects :*  
 
-* **My final year project** : 7th sem project done, working to have it published maybe : Link : (Handloom_Designing_Using_Generative_A.I)[https://github.com/rajatkb/Handloom-Design-Generation-using-Deep-Neural-Networks]
+* **My final year project**  
+  ~~7th sem project done, working to have it published maybe : Link : (Handloom_Designing_Using_Generative_A.I)[https://github.com/rajatkb/Handloom-Design-Generation-using-Deep-Neural-Networks]~~
 
 <hr>
 
@@ -51,5 +55,4 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 * A.I by Kirril Emeriko 
   Reinforcment Learning Course again. This one is good but half done till now  
-  
- 
+   
