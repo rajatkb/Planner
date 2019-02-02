@@ -5,12 +5,19 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 ## **Completed Stuff**
 * ~~Udacity Pytorch course challenge by Facebook,
-  This one if done will result in a Deep Learning Nanodegree course.~~
+  ~~This one if done will result in a Deep Learning Nanodegree course.~~ YAY !!! I got in the Nanodegree.
 
 
 ## **Ongoing Stuff :**
 
-##### *Courses:*
+##### *Courses:*  
+
+##### Date bounded #####
+* Udacity *Deep Learning Nanodegree Shcolarship* : Yup I got in among the top 300/10000. I am still not sure why or how. But it's on my top priority list now.  
+
+* Google Cloud Machine Learning Engineer : The entire course is give free for a month till Feb 19. In my case. It's specialization. So I need to hurry up. Like really quick and In a jiffy. 
+
+##### Unbounded ######
 * Algorithms Specialization 
   Yup i kept it hanging on the side for a while. Plus I need to revise a lot for my GATE preps. So more the algorithm merier it is.
 
@@ -38,7 +45,7 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 * **Deep Learning**  
   * [Deep learning paper reading list](http://deeplearning.net/reading-list/)
   * [Curated list of ML reading list](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md#deep) , awesome list of awesome stuff in ML and DL. Plus some stats and optimization stuff  
-  * 
+  *  
 
 
 ## **Future Task **  
