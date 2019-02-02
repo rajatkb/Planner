@@ -13,9 +13,9 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 ##### *Courses:*  
 
 ##### Date bounded #####
-* Udacity *Deep Learning Nanodegree Shcolarship* : Yup I got in among the top 300/10000. I am still not sure why or how. But it's on my top priority list now.  
+* Udacity **Deep Learning Nanodegree Shcolarship** (Jan - May) : Yup I got in among the top 300/10000. I am still not sure why or how. But it's on my top priority list now.  
 
-* Google Cloud Machine Learning Engineer : The entire course is give free for a month till Feb 19. In my case. It's specialization. So I need to hurry up. Like really quick and In a jiffy. 
+* **Google Cloud Machine Learning Engineer** (Feb 19): The entire course is give free for a month till Feb 19. In my case. It's specialization. So I need to hurry up. Like really quick and In a jiffy. 
 
 ##### Unbounded ######
 * Algorithms Specialization 
