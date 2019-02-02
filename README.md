@@ -4,7 +4,7 @@ This is my personal repository , documenting and maintaining plans on what to st
 Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) though for the idea.  
 
 ## **Completed Stuff**
-* ~~Udacity Pytorch course challenge by Facebook,
+* ~~Udacity Pytorch course challenge by Facebook,~~
   ~~This one if done will result in a Deep Learning Nanodegree course.~~ YAY !!! I got in the Nanodegree.
 
 
