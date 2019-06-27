@@ -28,7 +28,11 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 ##### Linear Algebra 
 
 * Linear algbra MIT , https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/  
-* Book , 
+* Book , recommeded gilbart
+
+##### Multivariate Calculus  
+
+* Calculus MIT lectures
 
 ##### Optimization  
 
