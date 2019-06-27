@@ -26,6 +26,11 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 ##### Linear Algebra 
 
+* Linear algbra MIT , https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+
+##### Optimization  
+
+* Numerical Analysis course  https://www.coursera.org/learn/intro-to-numerical-analysis
 
 ##### Probability & Statistics  
 * Probabilistic Programming Specialization  
@@ -45,6 +50,8 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 * [Fast.ai](https://forums.fast.ai/) Machine Learning  
   Because I need revision and need involve myself with a community of learners. Yup these people are awesome. Plus need to try their
   recent fastai library
+
+
 
 <hr>
 
