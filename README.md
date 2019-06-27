@@ -27,20 +27,35 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 ##### Linear Algebra 
 
-* Linear algbra MIT , https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+* Linear algbra MIT , https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/  
+* Book , 
 
 ##### Optimization  
 
 * Numerical Analysis course  https://www.coursera.org/learn/intro-to-numerical-analysis
 
 ##### Probability & Statistics  
+
+* 
+
 * Probabilistic Programming Specialization  
-  Stanford Course , an awesome one at that
+  Stanford Course , an awesome one at that  
+  
+* Causal Inference , https://www.coursera.org/learn/causal-inference
+
+##### Game Theory  
+* Coursera stanford course on game theory , https://www.coursera.org/learn/game-theory-1?
+
+##### Complex Analysis  
+
+* Complex number analysis standford coursera
 
 ##### Algorithms & DS
 
 * Algorithms Specialization 
-  Yup i kept it hanging on the side for a while. 
+  Yup i kept it hanging on the side for a while.  
+  
+
 
 ##### Machine Learning 
 
@@ -52,6 +67,10 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
   Because I need revision and need involve myself with a community of learners. Yup these people are awesome. Plus need to try their
   recent fastai library
 
+
+##### Cryptography  
+
+* Applied Cryptography course , https://www.coursera.org/specializations/applied-crypto
 
 
 <hr>
