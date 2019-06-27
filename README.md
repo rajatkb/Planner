@@ -39,7 +39,7 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 ##### Algorithms & DS
 
 * Algorithms Specialization 
-  Yup i kept it hanging on the side for a while. Plus I need to revise a lot for my GATE preps. So more the algorithm merier it is.
+  Yup i kept it hanging on the side for a while. 
 
 ##### Machine Learning 
 
