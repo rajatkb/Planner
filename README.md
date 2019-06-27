@@ -14,6 +14,7 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 * **My final year 8th sem project**
   ~~8th sme project done, working on having it published : link : https://github.com/rajatkb/Intuition-Net_Segmentation-Outpainting-using-Video-Sequence~~
   
+<hr>
  
 ## **Ongoing Stuff :**
 
