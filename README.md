@@ -36,11 +36,14 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 ##### Optimization  
 
-* Numerical Analysis course  https://www.coursera.org/learn/intro-to-numerical-analysis
+* Numerical Analysis course  https://www.coursera.org/learn/intro-to-numerical-analysis  
 
-##### Probability & Statistics  
+
+##### Information Theory 
 
 * 
+
+##### Probability & Statistics  
 
 * Probabilistic Programming Specialization  
   Stanford Course , an awesome one at that  
@@ -52,7 +55,7 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 ##### Complex Analysis  
 
-* Complex number analysis standford coursera
+* 
 
 ##### Algorithms & DS
 
