@@ -11,7 +11,7 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 * **My final year 7th sem project**  
   ~~7th sem project done, working to have it published maybe : Link : (Handloom_Designing_Using_Generative_A.I)[https://github.com/rajatkb/Handloom-Design-Generation-using-Deep-Neural-Networks]~~ 
 
-* **My final year 8th sem project**
+* **My final year 8th sem project**  
   ~~8th sme project done, working on having it published : link : https://github.com/rajatkb/Intuition-Net_Segmentation-Outpainting-using-Video-Sequence~~
   
 <hr>
