@@ -78,8 +78,9 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
   * Optical Engineering Coursera  , https://www.coursera.org/specializations/optical-engineering
 
 ##### Robotics
-* Robotics , Coursera , https://www.coursera.org/specializations/robotics
-* Self Driving Car , Uni of toronto coursera course , https://www.coursera.org/specializations/self-driving-cars
+* Robotics (Electrical), Coursera , https://www.coursera.org/specializations/robotics
+* Self Driving Car , Uni of toronto coursera course , https://www.coursera.org/specializations/self-driving-cars  
+* Robotics 2 (Mecha), Coursera , https://www.coursera.org/specializations/modernrobotics
 
 ##### Cryptography  
 
