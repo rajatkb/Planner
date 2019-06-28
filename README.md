@@ -62,7 +62,10 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 * Algorithms Specialization 
   Yup i kept it hanging on the side for a while.  
   
+##### Software Engineering  
 
+* **Big Data** 
+  * Scala specialization , https://www.coursera.org/specializations/scala
 
 ##### Machine Learning 
 
