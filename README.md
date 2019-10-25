@@ -70,6 +70,8 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 * **Big Data** 
   * Scala specialization , https://www.coursera.org/specializations/scala
+* **Java**
+  * Object oriented and advanced stuff with Java https://www.coursera.org/specializations/java-object-oriented
 
 ##### Machine Learning 
 
