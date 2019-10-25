@@ -20,6 +20,10 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 ##### *Courses:*  
 
+* Scala specialization https://www.coursera.org/specializations/scala?  
+  Picked it up because , I am out in the industry and having JVM + Functional Prog + Distributed Computing Skill is must , Atleast thats 
+  what looks like.
+
 ##### Date bounded #####
  
 
@@ -69,11 +73,11 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 ##### Machine Learning 
 
-* Data Mining Specialization  
+* **Data Mining Specialization  
   I have this subject in college course this time and i love this subject so a good course from coursera should suffice me with the  
   understanding of the algorithms.  
 
-* [Fast.ai](https://forums.fast.ai/) Machine Learning  
+* **[Fast.ai](https://forums.fast.ai/) Machine Learning  
   Because I need revision and need involve myself with a community of learners. Yup these people are awesome. Plus need to try their
   recent fastai library
 
@@ -90,7 +94,6 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 * Applied Cryptography course , https://www.coursera.org/specializations/applied-crypto
 
 
-<hr>
 
 ##### *Projects :*  
 
