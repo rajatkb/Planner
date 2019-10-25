@@ -72,6 +72,7 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
   * Scala specialization , https://www.coursera.org/specializations/scala
 * **Java**
   * Object oriented and advanced stuff with Java https://www.coursera.org/specializations/java-object-oriented
+  * Distributed and Parllel programming with Java https://www.coursera.org/specializations/pcdp
 
 ##### Machine Learning 
 
