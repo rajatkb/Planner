@@ -21,8 +21,8 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 ##### *Courses:*  
 
 * Scala specialization https://www.coursera.org/specializations/scala?  
-  Picked it up because , I am out in the industry and having JVM + Functional Prog + Distributed Computing Skill is must , Atleast thats 
-  what looks like.
+  Picked it up because , I am out in the industry and having JVM + Functional Prog + Distributed Computing Skill is must,Atleast  
+  thats what looks like.
 
 ##### Date bounded #####
  
@@ -32,7 +32,7 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 ##### Linear Algebra 
 
 * Linear algbra MIT , https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/  
-* Book , recommeded gilbart
+* 
 
 ##### Multivariate Calculus  
 
