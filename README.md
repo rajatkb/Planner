@@ -13,7 +13,8 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 * **My final year 8th sem project**  
   ~~8th sme project done, working on having it published : link : https://github.com/rajatkb/Intuition-Net_Segmentation-Outpainting-using-Video-Sequence~~
-  
+ 
+* ~ Linear algbra MIT , https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/ ~ 
 <hr>
  
 ## **Ongoing Stuff :**
@@ -31,7 +32,6 @@ Credits to [Priam Gogoi](https://github.com/rusty-electron/the-study-planner) th
 
 ##### Linear Algebra 
 
-* Linear algbra MIT , https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/  
 * 
 
 ##### Multivariate Calculus  
